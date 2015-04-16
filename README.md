@@ -37,7 +37,7 @@ vi bin/config.js
 	node bin/Monitor-restconf
 
 #Corporation#
-	Guangzhou Research Institute of China Telecom 
+* Guangzhou Research Institute of China Telecom 
 
 #Author#
 
