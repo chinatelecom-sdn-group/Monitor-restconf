@@ -40,7 +40,9 @@ vi bin/config.js
 	Guangzhou Research Institute of China Telecom 
 
 #Author#
+
 ##Algorithm design##
 * Hong Tang(chinatelecom.sdn.group@gmail.com)
+
 ##Coding##
 * Qianfeng Chen (chinatelecom.sdn.group@gmail.com)
