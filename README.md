@@ -43,6 +43,7 @@ vi bin/config.js
 
 ##Algorithm design##
 * Hong Tang(chinatelecom.sdn.group@gmail.com)
-
+* Liang Ou(chinatelecom.sdn.group@gmail.com)
+*
 ##Coding##
 * Qianfeng Chen (chinatelecom.sdn.group@gmail.com)

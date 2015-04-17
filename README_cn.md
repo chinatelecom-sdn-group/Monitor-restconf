@@ -43,6 +43,7 @@ vi bin/config.js
 
 ##设计##
 * Hong Tang(chinatelecom.sdn.group@gmail.com)
+* Liang Ou(chinatelecom.sdn.group@gmail.com)
 
 ##实现##
 * Qianfeng Chen (chinatelecom.sdn.group@gmail.com)
